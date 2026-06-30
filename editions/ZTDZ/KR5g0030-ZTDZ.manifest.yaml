@@ -1,0 +1,832 @@
+canonical_identifier: bkk:krp/KR5g0030/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0030/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清靈寶大法(一)
+  date: '2015-08-29 02:45:21.180629'
+  source:
+    repository: kanripo
+    path: KR5g0030
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0030_000-ZTDZ.yaml, hash: 'sha256:77fb6e0ff1e928d258f0d66b78b1e8594c8aa60eeb50dac7b4f89a03169b1592'}
+  - {seq: 1, filename: KR5g0030_001-ZTDZ.yaml, hash: 'sha256:93624cf78b711db6698ed4557fbd8de1c065542f53635b39b2b1423701f395a8'}
+  - {seq: 2, filename: KR5g0030_002-ZTDZ.yaml, hash: 'sha256:688f57f41ff1c3500c846c7ca48ec46aa64f287e0687977d9d7a0a54c7742163'}
+  - {seq: 3, filename: KR5g0030_003-ZTDZ.yaml, hash: 'sha256:f8cd941929765db9d47707995e994818674ef9d25786cb599464a6d4fd517562'}
+  - {seq: 4, filename: KR5g0030_004-ZTDZ.yaml, hash: 'sha256:89387c3033ce27528bbeb14bf2e52d8ab4372012b7a33a56d71fac410f143f44'}
+  - {seq: 5, filename: KR5g0030_005-ZTDZ.yaml, hash: 'sha256:f27345c621ac8b487a5be0b787a6881560e341b1bcf5ec942bc3ef544e8d33f4'}
+  - {seq: 6, filename: KR5g0030_006-ZTDZ.yaml, hash: 'sha256:b4f637ef5d8621ab6c469e5ea2aae4bbafee14e52dba99190a4ca17f12d657b5'}
+  - {seq: 7, filename: KR5g0030_007-ZTDZ.yaml, hash: 'sha256:a361c7061ae9eae6f1432a6049e9b231f81025f4a1efebc976edb746b25660c2'}
+  - {seq: 8, filename: KR5g0030_008-ZTDZ.yaml, hash: 'sha256:41b25b5d294b9b3a52bbee07e0219f5ce23488a57ef199bda587f025d402fe4c'}
+  - {seq: 9, filename: KR5g0030_009-ZTDZ.yaml, hash: 'sha256:45f99ff5272100ea4019bde6c6cecdfe33ff72d3b2aeae5ee5f48796c2a2b6cc'}
+  - {seq: 10, filename: KR5g0030_010-ZTDZ.yaml, hash: 'sha256:b66184eba4908c249e100aa5536ead61cec4fef37fceee414f40d57561219c55'}
+  - {seq: 11, filename: KR5g0030_011-ZTDZ.yaml, hash: 'sha256:effe87a9c2a406a12c804bcc69f64150619dc99efe479e1af77e3932aad25bdb'}
+  - {seq: 12, filename: KR5g0030_012-ZTDZ.yaml, hash: 'sha256:cbb6ac9720fd80435eaf7de5c1f2bcef874492a85081c99a67f803f5310db09a'}
+  - {seq: 13, filename: KR5g0030_013-ZTDZ.yaml, hash: 'sha256:998c40905c048f9aed9bf6e14247bba691097a08d3144d6270a2691e7691b997'}
+  - {seq: 14, filename: KR5g0030_014-ZTDZ.yaml, hash: 'sha256:d24f3b60736c050e5f6f75af38936b77f27080bf9e2b2879cda6f8a2d41284cc'}
+  - {seq: 15, filename: KR5g0030_015-ZTDZ.yaml, hash: 'sha256:d5476fa58bcfdb4b4a6dbf0a95db2de5bea016a89681a906ab46ea6afb4d4f9d'}
+  - {seq: 16, filename: KR5g0030_016-ZTDZ.yaml, hash: 'sha256:5cac6cc168149336a2d1b4733be425288dbd65dd5b70e946739fb7e547f639b5'}
+  - {seq: 17, filename: KR5g0030_017-ZTDZ.yaml, hash: 'sha256:c2e9a516fd6baf22fb6d30bd636ecc33b8c3ccd63069876f9d7a24d991d43e20'}
+  - {seq: 18, filename: KR5g0030_018-ZTDZ.yaml, hash: 'sha256:e337b637f5a123de107e2669787bc18900047617cf5144efc62b450175bb5f79'}
+  - {seq: 19, filename: KR5g0030_019-ZTDZ.yaml, hash: 'sha256:e9f47af8f99cdd6cc7a15007a231f1c2c1cd66a7ea20f1f8c3e48fa24e653576'}
+  - {seq: 20, filename: KR5g0030_020-ZTDZ.yaml, hash: 'sha256:d11e4fdad9e8a7d3c8157dbc8ac4b37ff3036c6dc698b53d9e966f13b3659db4'}
+  - {seq: 21, filename: KR5g0030_021-ZTDZ.yaml, hash: 'sha256:f94bff3aea53b98ef30e92a987fc49853edebc91162b0d904905e6347d2f2b90'}
+  - {seq: 22, filename: KR5g0030_022-ZTDZ.yaml, hash: 'sha256:b50e5837723915db803d34cde4e7f31764609862c2822b9b2caab8ff55a61e18'}
+  - {seq: 23, filename: KR5g0030_023-ZTDZ.yaml, hash: 'sha256:2e5a7f820e33125a2872827cd192b7f72a820387dc5a0484a1843dff0e424e28'}
+  - {seq: 24, filename: KR5g0030_024-ZTDZ.yaml, hash: 'sha256:9c0c25c8dc448fa4145908a3344e5ff8aa1a5500e8cea11c3a2f766b7b5c0394'}
+  - {seq: 25, filename: KR5g0030_025-ZTDZ.yaml, hash: 'sha256:c84c5eb4454621ff4dde406be67b2e99196cd977687e9db4648372f37449b004'}
+  - {seq: 26, filename: KR5g0030_026-ZTDZ.yaml, hash: 'sha256:85e59be0f1595cfe5dd8d600fc84162682a2bc8669625845acb8e5fe33519d58'}
+  - {seq: 27, filename: KR5g0030_027-ZTDZ.yaml, hash: 'sha256:ee287087755eaa45f3513184d3ed2d624b36d2c040f10f6e72c2bfc843f93b0d'}
+  - {seq: 28, filename: KR5g0030_028-ZTDZ.yaml, hash: 'sha256:bbb3dcd06f81ec8d485256bb8e1dc8612b9804c3b1737763ab2b93d95aeaea05'}
+  - {seq: 29, filename: KR5g0030_029-ZTDZ.yaml, hash: 'sha256:6d519ae4b2f490103bcd1e69ac1e0b3ff4183c55e55e4e9675f5e328c9711a2f'}
+  - {seq: 30, filename: KR5g0030_030-ZTDZ.yaml, hash: 'sha256:ed918a85acb0a1291863e114b0ac6ed23d6202929f8c49880f6aad5fb560d472'}
+  - {seq: 31, filename: KR5g0030_031-ZTDZ.yaml, hash: 'sha256:05754db179d3392a9ad5e3d83e06e1328ed0c075dfec65990a409376bb92b56c'}
+  - {seq: 32, filename: KR5g0030_032-ZTDZ.yaml, hash: 'sha256:f551b1aaa380b788ff6c5efb0d1cb19c05c7a97af2bb7fd74c6396223ecf2745'}
+  - {seq: 33, filename: KR5g0030_033-ZTDZ.yaml, hash: 'sha256:17df022dd8f8ff99c8a699f66aaaeb6d8f2ebb8a5a9a74236c227f8488b9a6a2'}
+  - {seq: 34, filename: KR5g0030_034-ZTDZ.yaml, hash: 'sha256:7c70f775547ebf406659b9d4cab37da20cc883280c4d3ae41f2d38dc69200210'}
+  - {seq: 35, filename: KR5g0030_035-ZTDZ.yaml, hash: 'sha256:a58030edd1fc604e5c5a62c6fa6bcf0a602eed6bcfff8ef2f392a0449ef1b0ed'}
+  - {seq: 36, filename: KR5g0030_036-ZTDZ.yaml, hash: 'sha256:443e3803b9a01ee55a0964d4b046ce9a1555fdd8a011dc6dac43983bcb8b47ac'}
+  - {seq: 37, filename: KR5g0030_037-ZTDZ.yaml, hash: 'sha256:8b63b324cf5598c2ec9d8c9b4c64778e8d5bac768581d9bfa7c89cd3cabe28c4'}
+  - {seq: 38, filename: KR5g0030_038-ZTDZ.yaml, hash: 'sha256:f79137053a25e65955797f2d06037d33bc1a253bc7e9c5274f4faaedacddcf23'}
+  - {seq: 39, filename: KR5g0030_039-ZTDZ.yaml, hash: 'sha256:8c87942653f79e8aae7d9301fd42ef909b519d331fc08c711bf67afb96bcad35'}
+  - {seq: 40, filename: KR5g0030_040-ZTDZ.yaml, hash: 'sha256:a2f69d5f4ae66b5d7e76dd317371ac9c7751399a1d710eed89f59fc5650bb545'}
+  - {seq: 41, filename: KR5g0030_041-ZTDZ.yaml, hash: 'sha256:61bd2e71d04d38005f975a4fe91680bf3142d132a45bcb42dc31d7d336a30a25'}
+  - {seq: 42, filename: KR5g0030_042-ZTDZ.yaml, hash: 'sha256:2cb2cb105a095732f95912f208ee67b774f801728981642d3174a331e8606b5e'}
+  - {seq: 43, filename: KR5g0030_043-ZTDZ.yaml, hash: 'sha256:100af24a2cb0f76d92d60497dfbfc50a48f26a81e737c008472a880e7395a6b9'}
+  - {seq: 44, filename: KR5g0030_044-ZTDZ.yaml, hash: 'sha256:2222d7b0cebb7afa72ab67ec4366c24c061de9ed6b480cb829f20e3433466d69'}
+  - {seq: 45, filename: KR5g0030_045-ZTDZ.yaml, hash: 'sha256:1b09e0da09e446ddf7e8cde2493c3c49888ac5595bb4cfbf9a0b9e23ed78d6dc'}
+  - {seq: 46, filename: KR5g0030_046-ZTDZ.yaml, hash: 'sha256:bfd6748cbe345d07b1c9af3d678bd30de229552dfabbcc2683d54acf19d12c1b'}
+  - {seq: 47, filename: KR5g0030_047-ZTDZ.yaml, hash: 'sha256:96d88e00f29ea2faa5406f094c529100718c1531b450eed084c02165f97de225'}
+  - {seq: 48, filename: KR5g0030_048-ZTDZ.yaml, hash: 'sha256:55b8411c9e76e609895367efbb427344570e90c59c4d0ba08e9c5b17fc6db43f'}
+  - {seq: 49, filename: KR5g0030_049-ZTDZ.yaml, hash: 'sha256:8e992bada9544193822c2357c8954eba9cbce6a674a32c2cb629984763f92292'}
+  - {seq: 50, filename: KR5g0030_050-ZTDZ.yaml, hash: 'sha256:5390d3ba53626f7f50bf4e10abda03b0e7f14893c40ac09f3230b85a0422a0c0'}
+  - {seq: 51, filename: KR5g0030_051-ZTDZ.yaml, hash: 'sha256:2412f32fab4703e2cc35cf719cb902b47825ef8a0787df4637faacb9c4f4bf37'}
+  - {seq: 52, filename: KR5g0030_052-ZTDZ.yaml, hash: 'sha256:1633f853f080be3aa4af7a07ee5b4680a731b7397fe7c8684f136ce93543d108'}
+  - {seq: 53, filename: KR5g0030_053-ZTDZ.yaml, hash: 'sha256:249caa72ffc2066e975dac813857a330a6ca8fb2eb80439f5c36de62d09402d8'}
+  - {seq: 54, filename: KR5g0030_054-ZTDZ.yaml, hash: 'sha256:e4f7f5a59d1713223612db60d666de59892ccedab9ae036095a6a1b29740d96d'}
+  - {seq: 55, filename: KR5g0030_055-ZTDZ.yaml, hash: 'sha256:83d2718b6dc64680d341c92d3cdd5d6e1d3c9c00f56ed905c5db6c29b4fcfb99'}
+  - {seq: 56, filename: KR5g0030_056-ZTDZ.yaml, hash: 'sha256:2d0d3f57e151cf9447958acebd854c41d9235058834531774d5643717006122f'}
+  - {seq: 57, filename: KR5g0030_057-ZTDZ.yaml, hash: 'sha256:de2d5ce8b9184e155ba9d714e1681761e032bf77cde06739c8f7c7b97604c907'}
+  - {seq: 58, filename: KR5g0030_058-ZTDZ.yaml, hash: 'sha256:d5b70bc91fe781b7c9ec7ebce629a6d8020d4a6ea1f48bae06fb45f4a48c08ef'}
+  - {seq: 59, filename: KR5g0030_059-ZTDZ.yaml, hash: 'sha256:d07d6d17146a20f5934d326dfd7533517b67b292d650567a7fcb05e74e6318c5'}
+  - {seq: 60, filename: KR5g0030_060-ZTDZ.yaml, hash: 'sha256:7d2a3b0fef21ce158cb82538aed68bd30417bf31a684698471de285b7a4dbe0b'}
+  - {seq: 61, filename: KR5g0030_061-ZTDZ.yaml, hash: 'sha256:f5ca4d6c2438f481ff3b98155bb23dab0bac67b1faa2a94ab9486c868934fad9'}
+  - {seq: 62, filename: KR5g0030_062-ZTDZ.yaml, hash: 'sha256:d56269792aebbcbe8e02c6994b640d7b937f70ffeee5c33056e06a027091e66d'}
+  - {seq: 63, filename: KR5g0030_063-ZTDZ.yaml, hash: 'sha256:c1c9e77f109f46e2e5678a2b8562e471c5b751ae41697d75da560bd10e38816a'}
+  - {seq: 64, filename: KR5g0030_064-ZTDZ.yaml, hash: 'sha256:d774c413b0998b1e1951c749eb2dc5ce890298e7421a6aa748788374b5eda539'}
+  - {seq: 65, filename: KR5g0030_065-ZTDZ.yaml, hash: 'sha256:e9a9347f510a3b5d19673b4a254c44777988e0a7a7c8c295f08834450e367ac7'}
+  - {seq: 66, filename: KR5g0030_066-ZTDZ.yaml, hash: 'sha256:943137e30413272ce9f88ffaf667b54fb13c2002b4fe5bfa70c4347284f842a0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0030_000-ZTDZ.markers.yaml, hash: 'sha256:a5cdc5f07cb95ea5038f933834f958a18ab42ecaab023677cc7352fa3d530742'}
+  - {seq: 1, role: markers, filename: assets/KR5g0030_001-ZTDZ.markers.yaml, hash: 'sha256:442233efd9a6785260c91aeec64621fcb30f6264dfdaa8aa676f846d05798e36'}
+  - {seq: 2, role: markers, filename: assets/KR5g0030_002-ZTDZ.markers.yaml, hash: 'sha256:ca2eac42468f66dade571bb5f9b5ceb26be25687c521b535ebada88a44eb37c1'}
+  - {seq: 3, role: markers, filename: assets/KR5g0030_003-ZTDZ.markers.yaml, hash: 'sha256:a58efb8bd82e9a349b1e1e6b0ff5aa8605024c02d0ccdb855c8b82a396f1a49f'}
+  - {seq: 4, role: markers, filename: assets/KR5g0030_004-ZTDZ.markers.yaml, hash: 'sha256:c53cd954ca15a67afbd0d76253f8ea1e8d7234bd6fcbf6538cef6db56b587527'}
+  - {seq: 5, role: markers, filename: assets/KR5g0030_005-ZTDZ.markers.yaml, hash: 'sha256:0998f803cee668da3257f9743924a34b93c194317eb1055042540c730208599a'}
+  - {seq: 6, role: markers, filename: assets/KR5g0030_006-ZTDZ.markers.yaml, hash: 'sha256:20326eb1a8b0b2154e26342a483386296deea6b9de5299c200ce947454a12043'}
+  - {seq: 7, role: markers, filename: assets/KR5g0030_007-ZTDZ.markers.yaml, hash: 'sha256:92e0616f18c34ad9adaf869c5c95c63b5d1ceedbabdecfd52561ba398ca21b09'}
+  - {seq: 8, role: markers, filename: assets/KR5g0030_008-ZTDZ.markers.yaml, hash: 'sha256:17f06d1965d2de5e2bd0dac0b6904c50a9066b6bed4312a96eb74b0a8383edde'}
+  - {seq: 9, role: markers, filename: assets/KR5g0030_009-ZTDZ.markers.yaml, hash: 'sha256:4a3d72e4c916957b881d65f16945cebf59bcab8949fa34baaf5527e8ebc4fc09'}
+  - {seq: 10, role: markers, filename: assets/KR5g0030_010-ZTDZ.markers.yaml, hash: 'sha256:abeb34d66342d04d1d196f08bd4701e63dbbe577f75249676ef4039325dec7ba'}
+  - {seq: 11, role: markers, filename: assets/KR5g0030_011-ZTDZ.markers.yaml, hash: 'sha256:01594c37167df8ccc3d4dd2404d681081e3d77be630c84a3727aa07b9f338c91'}
+  - {seq: 12, role: markers, filename: assets/KR5g0030_012-ZTDZ.markers.yaml, hash: 'sha256:b792171cd27f11e4f093c254cfedc9a9f265f5bec1790894eb5420c2bfc81f21'}
+  - {seq: 13, role: markers, filename: assets/KR5g0030_013-ZTDZ.markers.yaml, hash: 'sha256:592662057cb9b6e2f34655d57e9a7ed31b0251fd55ea3a2610534ca065116919'}
+  - {seq: 14, role: markers, filename: assets/KR5g0030_014-ZTDZ.markers.yaml, hash: 'sha256:9a863b8f5bc37a537ab4cbbafbdf12da61884cd104959a5199450c6124811c70'}
+  - {seq: 15, role: markers, filename: assets/KR5g0030_015-ZTDZ.markers.yaml, hash: 'sha256:96adf0318b112a163403ace905d6323ab726a778550a11f765113a59668fa195'}
+  - {seq: 16, role: markers, filename: assets/KR5g0030_016-ZTDZ.markers.yaml, hash: 'sha256:661c8b37cc24ff5fe92f29f0129e9d105c1b2ac1995250b5bcb8e49a60ec2cca'}
+  - {seq: 17, role: markers, filename: assets/KR5g0030_017-ZTDZ.markers.yaml, hash: 'sha256:a909b3fe831a88baa2e21daa2c3b7a3b20a6df62dd81f3f3764dada37d134679'}
+  - {seq: 18, role: markers, filename: assets/KR5g0030_018-ZTDZ.markers.yaml, hash: 'sha256:44a2b4149ba3ed8c594e10c865f859d0962b3fc6b9185edee1befbe99c5d6ffd'}
+  - {seq: 19, role: markers, filename: assets/KR5g0030_019-ZTDZ.markers.yaml, hash: 'sha256:262f3c9ffa55753a0ee55bfac0a9bebcb472f19f491d21c1c09a6bddb975f8ef'}
+  - {seq: 20, role: markers, filename: assets/KR5g0030_020-ZTDZ.markers.yaml, hash: 'sha256:3d41fc08001979de83c09cd79139878550e0ab5b411e432aa33a76a4c50032b8'}
+  - {seq: 21, role: markers, filename: assets/KR5g0030_021-ZTDZ.markers.yaml, hash: 'sha256:d404c633cb0293f168cb350a086b62556baabae690e83e112f8b4a5fbd672c5b'}
+  - {seq: 22, role: markers, filename: assets/KR5g0030_022-ZTDZ.markers.yaml, hash: 'sha256:128760a4ed77f86b042cc0aaa01b72556c01325bbfd51ea5d9792ea6b45b22a6'}
+  - {seq: 23, role: markers, filename: assets/KR5g0030_023-ZTDZ.markers.yaml, hash: 'sha256:1c8a5daef6d17a066f2dd92745b52e4c895e6c235d0022f17628b86de4bf0671'}
+  - {seq: 24, role: markers, filename: assets/KR5g0030_024-ZTDZ.markers.yaml, hash: 'sha256:0d757db68e9fbd2491074c176b3690586fa3a4f3d694d64130603641e8b0cdbf'}
+  - {seq: 25, role: markers, filename: assets/KR5g0030_025-ZTDZ.markers.yaml, hash: 'sha256:1a0c42c7f001f8c876c65720036ad477eade8fcdf175e5004187639811c0b89d'}
+  - {seq: 26, role: markers, filename: assets/KR5g0030_026-ZTDZ.markers.yaml, hash: 'sha256:7c408d8c03d73ef473d627a8ec05d280060d0fc5ff9a0ac78c29428da3b8cbe3'}
+  - {seq: 27, role: markers, filename: assets/KR5g0030_027-ZTDZ.markers.yaml, hash: 'sha256:d79b2079789ff16354c46edb82451a17c962c24ffeb995bf784032642b736f40'}
+  - {seq: 28, role: markers, filename: assets/KR5g0030_028-ZTDZ.markers.yaml, hash: 'sha256:9523d8bab12e9f8eaa4648b0f351d5a3dff76d5e0a9527667827ce3ab5e2d518'}
+  - {seq: 29, role: markers, filename: assets/KR5g0030_029-ZTDZ.markers.yaml, hash: 'sha256:cb5309dcef0dcd2d48c69c8419948332c086c487f03daf041f55f9b756771779'}
+  - {seq: 30, role: markers, filename: assets/KR5g0030_030-ZTDZ.markers.yaml, hash: 'sha256:6c32b6e1f982e1c5dcf659d8ec4b712efc30a68a1d673118f38127bf42e5ea7c'}
+  - {seq: 31, role: markers, filename: assets/KR5g0030_031-ZTDZ.markers.yaml, hash: 'sha256:f778b8a441b7be491c02d346a8111dc13688e43842065d2412bd84348104f294'}
+  - {seq: 32, role: markers, filename: assets/KR5g0030_032-ZTDZ.markers.yaml, hash: 'sha256:cceff6ae869bf3a9bb65385323554eb0c49d0478161bf0ef801086e50b21ad5e'}
+  - {seq: 33, role: markers, filename: assets/KR5g0030_033-ZTDZ.markers.yaml, hash: 'sha256:de5eb4f4dcd8c4efb3a490ea2fc259da1099bd5c4973b78105583d31123a3754'}
+  - {seq: 34, role: markers, filename: assets/KR5g0030_034-ZTDZ.markers.yaml, hash: 'sha256:1cde5f084659a68d8ba60088fb4008a6c9ea933522b142cd3b886db1e33a3c53'}
+  - {seq: 35, role: markers, filename: assets/KR5g0030_035-ZTDZ.markers.yaml, hash: 'sha256:eba9aab436d079e3ad2bd14300a1546aeaa8b99649f767754f03eb93198663db'}
+  - {seq: 36, role: markers, filename: assets/KR5g0030_036-ZTDZ.markers.yaml, hash: 'sha256:c5ac6239633dc39b82592a910b7f70e2dc272af26ce71947f1b02aaa2f0996ec'}
+  - {seq: 37, role: markers, filename: assets/KR5g0030_037-ZTDZ.markers.yaml, hash: 'sha256:c8b2b88c36d76500481ff37d558895befd0ad573f8e1e0b054c86c9d96ef8498'}
+  - {seq: 38, role: markers, filename: assets/KR5g0030_038-ZTDZ.markers.yaml, hash: 'sha256:d55affbcded01d5a2076bb6777c349d7ef7230fb78c7eeccc6bb8b9a20f2efd7'}
+  - {seq: 39, role: markers, filename: assets/KR5g0030_039-ZTDZ.markers.yaml, hash: 'sha256:d1cad8ef7408ffc11360a34e7d0d3900c86cc96dac9a4e11fb9fe878ec8e020c'}
+  - {seq: 40, role: markers, filename: assets/KR5g0030_040-ZTDZ.markers.yaml, hash: 'sha256:a7e639d37bb6fe86b2a64fa0e62096739f92ffedfd7d9150234bc5645bf5201c'}
+  - {seq: 41, role: markers, filename: assets/KR5g0030_041-ZTDZ.markers.yaml, hash: 'sha256:3a598a480668ec9fcaefeb439c9d8172b6499c178cfd98d0a1919dc8e1f627af'}
+  - {seq: 42, role: markers, filename: assets/KR5g0030_042-ZTDZ.markers.yaml, hash: 'sha256:2bec4f56114031063d8e4ed50831e4c289bf40ecef337550313101055d61d653'}
+  - {seq: 43, role: markers, filename: assets/KR5g0030_043-ZTDZ.markers.yaml, hash: 'sha256:6cd9c6945208f7afc23aea1711725a13c0cb8a67a1bbcbfea035cf9e9106d53c'}
+  - {seq: 44, role: markers, filename: assets/KR5g0030_044-ZTDZ.markers.yaml, hash: 'sha256:3c9fc2d4a3b8fdd76c4fb16daaccb29de7352458fe4d16b335631566015bad9a'}
+  - {seq: 45, role: markers, filename: assets/KR5g0030_045-ZTDZ.markers.yaml, hash: 'sha256:85b450adb8c124419a68029a563d7d7e85c111a5b1c55a84d9e1745213754551'}
+  - {seq: 46, role: markers, filename: assets/KR5g0030_046-ZTDZ.markers.yaml, hash: 'sha256:ce3bb27a3b59a1028ca122b320e54f544ff92d2ebd43eeb31d86992a1a07965e'}
+  - {seq: 47, role: markers, filename: assets/KR5g0030_047-ZTDZ.markers.yaml, hash: 'sha256:be5d9dc4e058e016095e2c2b209e268e2bbe97def8131c7555625d6204fdecd3'}
+  - {seq: 48, role: markers, filename: assets/KR5g0030_048-ZTDZ.markers.yaml, hash: 'sha256:18831f0a00604969166752def213952a5c42aae44b9581e41f3c901fd4d493a8'}
+  - {seq: 49, role: markers, filename: assets/KR5g0030_049-ZTDZ.markers.yaml, hash: 'sha256:62d5fe6fc42ebdd6f216d045e8e399988e342a77afde9d32e98afb2c8e11d074'}
+  - {seq: 50, role: markers, filename: assets/KR5g0030_050-ZTDZ.markers.yaml, hash: 'sha256:3033a508fae8744fc50ed8321682d67dd5b4520422b97716657977a6b27131f1'}
+  - {seq: 51, role: markers, filename: assets/KR5g0030_051-ZTDZ.markers.yaml, hash: 'sha256:9bf3604b2f3cf28ad3fe9c9dae07ccc8344fdc50d410ecc6b4ae6f4ee9c81e2f'}
+  - {seq: 52, role: markers, filename: assets/KR5g0030_052-ZTDZ.markers.yaml, hash: 'sha256:77f3743cadac124c2e48a0c20ae37cfd8eea0c77633daec66c76dee785d1e824'}
+  - {seq: 53, role: markers, filename: assets/KR5g0030_053-ZTDZ.markers.yaml, hash: 'sha256:4d3d387f383ceef84bdaee1fb85c9406d220d803898d7c96d1be9fc9c2d2c32d'}
+  - {seq: 54, role: markers, filename: assets/KR5g0030_054-ZTDZ.markers.yaml, hash: 'sha256:dc5b650bbe300715411ade1f999173c6f971e7e2654e7bcbe1c1eaef5458a850'}
+  - {seq: 55, role: markers, filename: assets/KR5g0030_055-ZTDZ.markers.yaml, hash: 'sha256:8bd3505e0db4af5cc8dcbc5bd5d42519c0483e6ca994439d779c9e936af340c0'}
+  - {seq: 56, role: markers, filename: assets/KR5g0030_056-ZTDZ.markers.yaml, hash: 'sha256:7a23481384db1eda8df47e726d8e5e71983e8d413db910bc626023ec9b1a9d4a'}
+  - {seq: 57, role: markers, filename: assets/KR5g0030_057-ZTDZ.markers.yaml, hash: 'sha256:b91bfec8d9590264ce48f1fe3645ccc3d7af65a01a6b212e078ec9fba4257c47'}
+  - {seq: 58, role: markers, filename: assets/KR5g0030_058-ZTDZ.markers.yaml, hash: 'sha256:f9838b795bdcd835022f16b5219da08d723be2720329d10e283c843ea9bd66ac'}
+  - {seq: 59, role: markers, filename: assets/KR5g0030_059-ZTDZ.markers.yaml, hash: 'sha256:a3d3ccff9f29290c0ceafc441506a33ded1f2a35b2834433b35a362316ab51fc'}
+  - {seq: 60, role: markers, filename: assets/KR5g0030_060-ZTDZ.markers.yaml, hash: 'sha256:412da169c53a437bb4c3869fd01838b3107ceee7584f61bb15ac63564b5d2c7c'}
+  - {seq: 61, role: markers, filename: assets/KR5g0030_061-ZTDZ.markers.yaml, hash: 'sha256:f34f02fe9bbd38b946ec0f38f7dd4ed413a12aac62456d69c6478c58072a5f11'}
+  - {seq: 62, role: markers, filename: assets/KR5g0030_062-ZTDZ.markers.yaml, hash: 'sha256:36e06c92170ce7eb98bc8bc8373ea9823cc05c168dfc3cd39aee1ac0ee27c623'}
+  - {seq: 63, role: markers, filename: assets/KR5g0030_063-ZTDZ.markers.yaml, hash: 'sha256:e08607d821b75b62f052528b9d924b48c1cba5654b85597cb2447aa8cdd4cabe'}
+  - {seq: 64, role: markers, filename: assets/KR5g0030_064-ZTDZ.markers.yaml, hash: 'sha256:b9908634e972a0755b348e073dfa6eaed4bb371cb69ebcadc605cbf0e558d4cd'}
+  - {seq: 65, role: markers, filename: assets/KR5g0030_065-ZTDZ.markers.yaml, hash: 'sha256:e1191c5ceafc6d6d7a0285974330ed5e2751bd2f3a12c10872d1b7392590de19'}
+  - {seq: 66, role: markers, filename: assets/KR5g0030_066-ZTDZ.markers.yaml, hash: 'sha256:8eeecf5761f142eb649ee8141a87e7d4b1803ae45b5a04d71878af7e09c8dd1f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0030_SJB_000-300649b
+    span:
+    - body
+    - 0
+    - 1859
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5g0030_SJB_001-300651b
+    span:
+    - body
+    - 0
+    - 2404
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5g0030_SJB_002-300654b
+    span:
+    - body
+    - 0
+    - 6679
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5g0030_SJB_003-300665c
+    span:
+    - body
+    - 0
+    - 5949
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5g0030_SJB_004-300674a
+    span:
+    - body
+    - 0
+    - 12687
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5g0030_SJB_005-300690b
+    span:
+    - body
+    - 0
+    - 4620
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5g0030_SJB_006-300696c
+    span:
+    - body
+    - 0
+    - 8079
+  label: juan 006
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5g0030_SJB_007-300708b
+    span:
+    - body
+    - 0
+    - 3109
+  label: juan 007
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5g0030_SJB_008-300715c
+    span:
+    - body
+    - 0
+    - 6450
+  label: juan 008
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR5g0030_SJB_009-300724b
+    span:
+    - body
+    - 0
+    - 4347
+  label: juan 009
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5g0030_SJB_010-300730a
+    span:
+    - body
+    - 0
+    - 11093
+  label: juan 010
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR5g0030_SJB_011-300745a
+    span:
+    - body
+    - 0
+    - 5095
+  label: juan 011
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR5g0030_SJB_012-300754b
+    span:
+    - body
+    - 0
+    - 13062
+  label: juan 012
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR5g0030_SJB_013-300774a
+    span:
+    - body
+    - 0
+    - 3269
+  label: juan 013
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR5g0030_SJB_014-300779a
+    span:
+    - body
+    - 0
+    - 4171
+  label: juan 014
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR5g0030_SJB_015-300789b
+    span:
+    - body
+    - 0
+    - 3025
+  label: juan 015
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR5g0030_SJB_016-300800c
+    span:
+    - body
+    - 0
+    - 3966
+  label: juan 016
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR5g0030_SJB_017-300808b
+    span:
+    - body
+    - 0
+    - 1360
+  label: juan 017
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR5g0030_SJB_018-300816a
+    span:
+    - body
+    - 0
+    - 2746
+  label: juan 018
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR5g0030_SJB_019-300826a
+    span:
+    - body
+    - 0
+    - 2234
+  label: juan 019
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR5g0030_SJB_020-300836b
+    span:
+    - body
+    - 0
+    - 1047
+  label: juan 020
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR5g0030_SJB_021-300844b
+    span:
+    - body
+    - 0
+    - 1586
+  label: juan 021
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR5g0030_SJB_022-300854b
+    span:
+    - body
+    - 0
+    - 1512
+  label: juan 022
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR5g0030_SJB_023-300864c
+    span:
+    - body
+    - 0
+    - 3525
+  label: juan 023
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR5g0030_SJB_024-300869b
+    span:
+    - body
+    - 0
+    - 7726
+  label: juan 024
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR5g0030_SJB_025-300879a
+    span:
+    - body
+    - 0
+    - 5598
+  label: juan 025
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR5g0030_SJB_026-300889a
+    span:
+    - body
+    - 0
+    - 7707
+  label: juan 026
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR5g0030_SJB_027-300898b
+    span:
+    - body
+    - 0
+    - 5296
+  label: juan 027
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR5g0030_SJB_028-300906b
+    span:
+    - body
+    - 0
+    - 9522
+  label: juan 028
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR5g0030_SJB_029-300919c
+    span:
+    - body
+    - 0
+    - 4041
+  label: juan 029
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR5g0030_SJB_030-300927a
+    span:
+    - body
+    - 0
+    - 6083
+  label: juan 030
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR5g0030_SJB_031-300934a
+    span:
+    - body
+    - 0
+    - 4780
+  label: juan 031
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR5g0030_SJB_032-300940b
+    span:
+    - body
+    - 0
+    - 2568
+  label: juan 032
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR5g0030_SJB_033-300947a
+    span:
+    - body
+    - 0
+    - 2360
+  label: juan 033
+  type: section
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR5g0030_SJB_034-300954a
+    span:
+    - body
+    - 0
+    - 2898
+  label: juan 034
+  type: section
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR5g0030_SJB_035-300960a
+    span:
+    - body
+    - 0
+    - 3941
+  label: juan 035
+  type: section
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR5g0030_SJB_036-300966c
+    span:
+    - body
+    - 0
+    - 5214
+  label: juan 036
+  type: section
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR5g0030_SJB_037-300976a
+    span:
+    - body
+    - 0
+    - 1442
+  label: juan 037
+  type: section
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR5g0030_SJB_038-300982b
+    span:
+    - body
+    - 0
+    - 3338
+  label: juan 038
+  type: section
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR5g0030_SJB_039-300990c
+    span:
+    - body
+    - 0
+    - 5501
+  label: juan 039
+  type: section
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR5g0030_SJB_040-301002a
+    span:
+    - body
+    - 0
+    - 4642
+  label: juan 040
+  type: section
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR5g0030_SJB_041-301013b
+    span:
+    - body
+    - 0
+    - 5453
+  label: juan 041
+  type: section
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR5g0030_SJB_042-301025b
+    span:
+    - body
+    - 0
+    - 5878
+  label: juan 042
+  type: section
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR5g0030_SJB_043-301039c
+    span:
+    - body
+    - 0
+    - 5579
+  label: juan 043
+  type: section
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR5g0030_SJB_044-301053a
+    span:
+    - body
+    - 0
+    - 6118
+  label: juan 044
+  type: section
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR5g0030_SJB_045-301064a
+    span:
+    - body
+    - 0
+    - 6257
+  label: juan 045
+  type: section
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR5g0030_SJB_046-301073a
+    span:
+    - body
+    - 0
+    - 6588
+  label: juan 046
+  type: section
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR5g0030_SJB_047-301084a
+    span:
+    - body
+    - 0
+    - 3965
+  label: juan 047
+  type: section
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR5g0030_SJB_048-301092a
+    span:
+    - body
+    - 0
+    - 3171
+  label: juan 048
+  type: section
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR5g0030_SJB_049-301098c
+    span:
+    - body
+    - 0
+    - 4852
+  label: juan 049
+  type: section
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR5g0030_SJB_050-301112a
+    span:
+    - body
+    - 0
+    - 4044
+  label: juan 050
+  type: section
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR5g0030_SJB_051-301122b
+    span:
+    - body
+    - 0
+    - 3834
+  label: juan 051
+  type: section
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR5g0030_SJB_052-301132b
+    span:
+    - body
+    - 0
+    - 3552
+  label: juan 052
+  type: section
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR5g0030_SJB_053-301142c
+    span:
+    - body
+    - 0
+    - 3018
+  label: juan 053
+  type: section
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR5g0030_SJB_054-301151b
+    span:
+    - body
+    - 0
+    - 8233
+  label: juan 054
+  type: section
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR5g0030_SJB_055-301161a
+    span:
+    - body
+    - 0
+    - 9169
+  label: juan 055
+  type: section
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR5g0030_SJB_056-301172c
+    span:
+    - body
+    - 0
+    - 7822
+  label: juan 056
+  type: section
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR5g0030_SJB_057-301182b
+    span:
+    - body
+    - 0
+    - 6655
+  label: juan 057
+  type: section
+  level: 1
+- ref:
+    seq: 58
+    marker_id: KR5g0030_SJB_058-301190c
+    span:
+    - body
+    - 0
+    - 7179
+  label: juan 058
+  type: section
+  level: 1
+- ref:
+    seq: 59
+    marker_id: KR5g0030_SJB_059-301199c
+    span:
+    - body
+    - 0
+    - 8640
+  label: juan 059
+  type: section
+  level: 1
+- ref:
+    seq: 60
+    marker_id: KR5g0030_SJB_060-301210a
+    span:
+    - body
+    - 0
+    - 6919
+  label: juan 060
+  type: section
+  level: 1
+- ref:
+    seq: 61
+    marker_id: KR5g0030_SJB_061-301221b
+    span:
+    - body
+    - 0
+    - 3524
+  label: juan 061
+  type: section
+  level: 1
+- ref:
+    seq: 62
+    marker_id: KR5g0030_SJB_062-301227b
+    span:
+    - body
+    - 0
+    - 5062
+  label: juan 062
+  type: section
+  level: 1
+- ref:
+    seq: 63
+    marker_id: KR5g0030_SJB_063-301236b
+    span:
+    - body
+    - 0
+    - 11752
+  label: juan 063
+  type: section
+  level: 1
+- ref:
+    seq: 64
+    marker_id: KR5g0030_SJB_064-301257a
+    span:
+    - body
+    - 0
+    - 14930
+  label: juan 064
+  type: section
+  level: 1
+- ref:
+    seq: 65
+    marker_id: KR5g0030_SJB_065-301278b
+    span:
+    - body
+    - 0
+    - 6456
+  label: juan 065
+  type: section
+  level: 1
+- ref:
+    seq: 66
+    marker_id: KR5g0030_SJB_066-301288c
+    span:
+    - body
+    - 0
+    - 5431
+  label: juan 066
+  type: section
+  level: 1
+hash: sha256:03521983e2df4cffc03bd58020d0384b1c33a2705e093e83028923a3e5dad567
